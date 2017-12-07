@@ -1,8 +1,3 @@
-# Git Commands
+# React Boilerplate
 
-git init
-git status
-git add
-git commit
-git log
-# react-boilerplate
+React 16
